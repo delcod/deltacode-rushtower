@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img alt="react-router" src="http://deltacode.fr/assets/images/rushtower.png">
+  <img alt="react-router" height="100px" src="https://deltacode.fr/assets/images/castle.svg">
 </p>
 
 # Rush Tower
